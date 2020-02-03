@@ -14,8 +14,10 @@ namespace SOLID_IMP
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Hello World!");
 
-            
+            Console.WriteLine("Hello World!");
+
 
             Console.ReadKey();
 
