@@ -1,0 +1,2 @@
+# SolidPrincipleCSharp
+Solid principle implementation
