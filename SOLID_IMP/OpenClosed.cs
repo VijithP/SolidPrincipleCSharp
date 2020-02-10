@@ -14,7 +14,6 @@ namespace SOLID_IMP
         {
             Employee emp = new Employee() { Employee_Id = 101, Employee_Name = "Vijith" };
            Console.WriteLine( cr.GenerateReport(emp));
-
            Console.WriteLine(pr.GenerateReport(emp));
 
         }
