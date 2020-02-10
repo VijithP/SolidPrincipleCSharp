@@ -14,7 +14,6 @@ namespace SOLID_IMP
         {
             emp.InsertIntoEmployeeTable(emp);
             Console.WriteLine("Employee Data inserted");
-
             emp.SelectFromFromEmployeeTable(emp);
             Console.WriteLine("Employee Data selected");
         }
