@@ -22,6 +22,19 @@ namespace SOLID_IMP
             Console.WriteLine("_____________________________");
             OpenClosed op = new OpenClosed();
 
+
+            Console.WriteLine();
+            Console.WriteLine("Liskov substitution Principle");
+            Console.WriteLine("_____________________________");
+            LiskovSubstitutionImplemetation lsv = new LiskovSubstitutionImplemetation();
+
+
+            Console.WriteLine();
+            Console.WriteLine("Interface segregation Principle");
+            Console.WriteLine("_____________________________");
+            InterfaceSegregationImplementation isi = new InterfaceSegregationImplementation();
+     
+
             Console.ReadKey();
 
 

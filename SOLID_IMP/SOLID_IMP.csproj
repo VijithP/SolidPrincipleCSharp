@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InterfaceSegregationImplementation.cs" />
+    <Compile Include="InterfaceSegregationViolation.cs" />
+    <Compile Include="LiskovSubstitutionImplemetation.cs" />
+    <Compile Include="LiskovSubstitutionViolation.cs" />
     <Compile Include="OpenClosed.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
